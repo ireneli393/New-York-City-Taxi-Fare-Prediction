@@ -1,1 +1,5 @@
 # new-york-city-taxi-fare-prediction
+
+In this project, we present an investigation into predicting New York City taxi fares based on pickup and dropoff locations. We begin by providing an overview of the dataset utilized for predicting New York City taxi fares based on pickup and dropoff locations. We detail the data cleaning process, elaborating on the rationale behind our chosen approach. Subsequently, we delve into the feature engineering process to enhance the predictive capabilities of our models. Considering the substantial size of the dataset, we adopt optimization techniques to ensure the efficient execution of our code. We then fit multiple machine learning models to the data and perform hyperparameter tuning to achieve optimal results. Leveraging advanced libraries and frameworks acquired from our Advanced Python coursework, we successfully enhance the performance and efficiency of the prediction model. Overall, the achieved RMSE score is competitive on Kaggle leaderboard.
+
+Data Source: https://www.kaggle.com/GCP-Credits-Form-NYC-Taxi
